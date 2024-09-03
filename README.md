@@ -2,7 +2,7 @@
 
 ~~An application toolkit and web framework for ambitious developers.~~
 
-Just use rust.
+Just choose elixir or rust instead.
 
 ## License
 
